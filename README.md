@@ -3,18 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmuhammad05&label=Profile%20views&color=0e75b6&style=flat" alt="devmuhammad05" /> </p>
 
-A dedicated backend developer proficient in Laravel and PHP, committed to crafting innovative solutions through the construction of resilient backend systems that prioritize scalability, efficiency, and security. 
-
-I am an adept software craftsman with experience in building backend systems, APIs, and database architecture  with a particular passion for harnessing the power of Laravel/PHP. I am zealous about code quality and maintainability, embracing Laravel's elegant testing suite to ensure that every facet of the application functions flawlessly.
-
-Within my code repository, you'll discover implementations that embody both eloquence and elegance, resonating harmoniously with the fundamental principles of Laravel and modern frontend development.
+I'm a backend developer passionate about building robust, scalable systems that emphasize performance and security. With expertise spanning Laravel/PHP and Python, I specialize in crafting well-architected APIs, database solutions, and system designs that solve real-world problems.
 
 I look forward to building👯 with you don't hesitate to reach out 📫 **y.adeleke05@gmail.com**
 
 ## ⚡ Projects
 
 <!-- PROJECTS START -->
-* [FoodPark](https://github.com/Muhammad235/Travel-Api) - Food e-commerce website  
+<!--* [FoodPark](https://github.com/Muhammad235/Travel-Api) - Food e-commerce website  
 * [Company Email Validator](https://github.com/devMuhammad05/company-email-validator)  - Package   ![Total Downloads](https://img.shields.io/packagist/dt/devmuhammad/company-email-validator)
 * [Property Listing API](https://github.com/Muhammad235/Travel-Api) - API  
 * [JobEntry](https://github.com/Muhammad235/Travel-Api) - Job portal website  
