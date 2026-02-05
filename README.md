@@ -68,7 +68,7 @@ I care deeply about **code quality**, **testing**, and **architecture**. Beyond 
   A production-ready package for validating company email addresses with strong emphasis on **testing and correctness**.  
   ![Downloads](https://img.shields.io/packagist/dt/devmuhammad/company-email-validator?style=flat-square)
 
-- 🦞 **[Memory Match](https://memory-match.live)**  
+- 🎮 **[Memory Match](https://memory-match.live)**  
   Multiplayer memory match game with real-time interactions.
 
 - 🧩 **[Wetrocloud SDK (PHP)](https://github.com/devMuhammad05/wetrocloud-sdk)**  
@@ -77,6 +77,8 @@ I care deeply about **code quality**, **testing**, and **architecture**. Beyond 
 - 📰 **[News Aggregator API](https://github.com/devMuhammad05/news-aggregator-api)**  
   A clean, extensible API for aggregating and serving news from multiple sources.
 
+- 🐘 **[GOG-CLI](https://github.com/devMuhammad05/gog-cli)**  
+  A powerful, interactive command-line interface for managing your Gmail, built with Laravel Zero.
 ---
 
 ### 🧠 What I Care About
